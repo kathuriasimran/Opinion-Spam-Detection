@@ -21,10 +21,10 @@
 	2.6) workon bert				(For again running the code)
 ```
 	
-### here your virtual environment will be activated, follow the following commands:-
+#### here your virtual environment will be activated, follow the following commands:-
 
  ```console
-	2.7) pip install tensorflow			(one-time command)
+		2.7) pip install tensorflow			(one-time command)
 ```
 ```console
 	2.8) pip install Flask				(one-time command)
