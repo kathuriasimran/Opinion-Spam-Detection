@@ -1,4 +1,4 @@
-HOW TO RUN A CODE ?
+#HOW TO RUN A CODE ?
 
 1) Open CMD Terminal
 2) Write following mentioned commands:-
