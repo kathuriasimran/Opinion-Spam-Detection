@@ -4,7 +4,8 @@
 ### Write following mentioned commands:-
 
 ```console
-  2.1) pip install --upgrade pip 		```		(one-time command)
+  2.1) pip install --upgrade pip
+```		(one-time command)
 
 ```console
   2.2) pip install virtualenv		```		(one-time command)
