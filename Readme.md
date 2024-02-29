@@ -34,6 +34,6 @@
 ```
 
 3. Run FLASK FILE (Command is mentioned below)
- ```console
-	3.1) python spamcheck.py			(For again running the code)
+  ```console
+		3.1) python spamcheck.py			(For again running the code)
    ```
