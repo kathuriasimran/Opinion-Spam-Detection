@@ -17,8 +17,9 @@
 ```console
 	2.5) setprojectdir.(Filepath of bert model)		(one time command)
 ```
+```console
 	2.6) work on bert					(For again running the code)
-
+```
 * here your virtual environment will be activated, follow the following commands:-
 ```console
 	2.7) pip install tensorflow				(one time command)
