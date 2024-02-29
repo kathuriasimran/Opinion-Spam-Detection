@@ -3,7 +3,8 @@
 1. Open CMD Terminal
 2. Write following mentioned commands:-
 ```console
-	2.1) pip install --upgrade pip 	```			(one time command)
+	2.1) pip install --upgrade pip 			(one time command)
+```
 	2.2) pip install virtualenv					(one time command)
 	2.3) pip install virtualenvwrapper-win			(one time command)
 	2.4) mkvirtualenv bert						(one time command)
