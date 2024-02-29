@@ -21,7 +21,7 @@
 	2.6) workon bert				(For again running the code)
 ```
 	
-#### here your virtual environment will be activated, follow the following commands:-
+### here your virtual environment will be activated, follow the following commands:-
 
  ```console
 		2.7) pip install tensorflow			(one-time command)
@@ -34,6 +34,6 @@
 ```
 
 3. Run FLASK FILE (Command is mentioned below)
-4. ```console
+ ```console
 	3.1) python spamcheck.py			(For again running the code)
    ```
